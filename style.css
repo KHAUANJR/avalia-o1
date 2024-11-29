@@ -20,3 +20,9 @@ section {
 .chamada-texto {
     margin-right: 5%;
 }
+
+.categoria-videos {
+    display: flex;
+    overflow: auto;
+    gap: 10px; 
+}
