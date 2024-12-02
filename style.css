@@ -21,6 +21,12 @@ section {
     margin-right: 5%;
 }
 
+img {height 200px;
+
+
+}
+
+
 .categoria-videos {
     display: flex;
     overflow: auto;
